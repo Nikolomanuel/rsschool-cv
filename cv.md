@@ -32,4 +32,5 @@ const multiply = (a, b) => a * b
 ---
   * Russian - Native 
   * English - A1 
-
+  
+![https://rs.school](https://rollingscopes.com/images/logo_rs_text.svg)
